@@ -1057,6 +1057,9 @@ a {
   .guide-card {
     padding: 26px 22px;
   }
+  .secondary-button {
+    display: none;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
