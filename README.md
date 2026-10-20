@@ -22,13 +22,19 @@ The landing page is designed to provide a clean, modern user experience across d
 - **HTML5** — Page structure and content
 - **CSS3** — Styling and responsive layout
 - **JavaScript** — Form handling, validation, and tracking integration
+- **GSAP** — Animation 
+- **ScrollTrigger** — Animation 
+- **Responsive web design**
+- **SEO meta tags**
 - **Git & GitHub** — Version control and source code management
-- **Netlify or Vercel** — Static website deployment
+- **Netlify** — Static website deployment
+
 
 ## Project Structure
 
 ```text
 10X-Creative-Assessment/
+├── images/
 ├── index.html
 ├── style.css
 ├── script.js
